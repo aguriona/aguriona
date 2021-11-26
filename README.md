@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @aguriona
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Augusto
+- 👀 I’m interested in Back-End Technologies
+- 🌱 I’m currently learning Java/Spring
+- 📫 How to reach me: https://www.linkedin.com/in/augusto-uriona-b56738209/
 
 <!---
 aguriona/aguriona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
